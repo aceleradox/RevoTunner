@@ -1,0 +1,41 @@
+COMANDOS PARA RODAR O PROJETO (VUE + VITE)
+
+Abra o terminal na pasta do projeto
+
+Instale as dependências:
+npm install
+
+Rode o projeto em modo desenvolvimento:
+npm run dev
+
+Depois disso, abra no navegador o endereço que aparecer (geralmente):
+http://localhost:5173
+
+PARAR O SERVIDOR
+No terminal, pressione:
+Ctrl + C
+
+GERAR BUILD PARA DEPLOY
+Cria a pasta dist/:
+npm run build
+
+VISUALIZAR O BUILD LOCALMENTE:
+npm run preview
+
+REQUISITOS
+
+Node.js (versão LTS)
+
+npm (já vem com o Node)
+
+Verificar versões:
+node -v
+npm -v
+
+Se quiser, posso gerar:
+
+README.md completo
+
+texto de descrição para GitHub
+
+passo a passo de deploy no GitHub Pages só pelo navegador
